@@ -62,6 +62,18 @@ browser command center.
   <a href="https://huggingface.co/spaces/Superior-Mind-Labs/AIR"><strong>Hugging Face Space</strong></a>
 </p>
 
+### Superior MI Builder
+
+**Typed construction substrate for machine-readable systems**
+
+Superior MI Builder is the structural substrate for composing, verifying, lowering, simulating, and safely evolving typed systems through one canonical graph authority and one structural mutation path.
+
+R1 completed an eight-wave development and destructive-qualification program covering canonical graph histories, exact artifact identity, deterministic verification, state isolation, explicit effect authority, safe simulation, runtime fault evidence, and a clean-room fresh-agent proof.
+
+<p>
+  <a href="https://github.com/Superior-MI-Labs/Superior-MI-Builder"><strong>Source and R1 engineering record</strong></a>
+</p>
+
 ### Inference Fabric
 
 Inference Fabric explores reusable inference infrastructure, continuity, and
