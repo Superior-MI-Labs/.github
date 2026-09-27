@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1600" height="430" viewBox="0 0 1600 430"
+  role="img" aria-labelledby="title desc">
+
+  <title id="title">Superior MI Labs</title>
+  <desc id="desc">
+    Superior MI Labs banner inspired by Lake Superior,
+    northern horizons, and computational signal flow.
+  </desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061620"/>
+      <stop offset=".55" stop-color="#082b3b"/>
+      <stop offset="1" stop-color="#030b11"/>
+    </linearGradient>
+
+    <radialGradient id="light" cx="52%" cy="-10%" r="80%">
+      <stop offset="0" stop-color="#62d8ff" stop-opacity=".18"/>
+      <stop offset=".55" stop-color="#1685ae" stop-opacity=".04"/>
+      <stop offset="1" stop-color="#061620" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="horizon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#55d8ff" stop-opacity="0"/>
+      <stop offset=".45" stop-color="#55d8ff"/>
+      <stop offset=".72" stop-color="#e0a15d"/>
+      <stop offset="1" stop-color="#55d8ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="430" fill="url(#bg)"/>
+  <rect width="1600" height="430" fill="url(#light)"/>
+
+  <g fill="none" stroke="#69dfff" stroke-opacity=".13" stroke-width="2">
+    <path d="M-40 92 C270 20 470 150 780 90 S1250 45 1650 115"/>
+    <path d="M-30 150 C270 90 480 215 790 150 S1230 110 1650 175"/>
+    <path d="M-20 215 C290 155 500 260 820 210 S1240 170 1640 235"/>
+  </g>
+
+  <g fill="none" stroke="#6de1ff" stroke-opacity=".32">
+    <path d="M1110 95 L1190 145 L1270 102 L1360 165 L1450 118"/>
+    <path d="M1190 145 L1250 230 L1360 165 L1435 245"/>
+  </g>
+
+  <g fill="#7ce8ff">
+    <circle cx="1110" cy="95" r="4"/>
+    <circle cx="1190" cy="145" r="4"/>
+    <circle cx="1270" cy="102" r="4"/>
+    <circle cx="1360" cy="165" r="4"/>
+    <circle cx="1450" cy="118" r="4"/>
+    <circle cx="1250" cy="230" r="4"/>
+    <circle cx="1435" cy="245" r="4"/>
+  </g>
+
+  <path
+    d="M0 363 C340 330 560 390 850 350 S1270 320 1600 365"
+    fill="none"
+    stroke="url(#horizon)"
+    stroke-width="3"
+  />
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text
+      x="110" y="185"
+      fill="#edf9ff"
+      font-size="86"
+      font-weight="800"
+      letter-spacing="-4">SUPERIOR MI LABS</text>
+
+    <text
+      x="116" y="242"
+      fill="#6cdbff"
+      font-size="22"
+      font-weight="700"
+      letter-spacing="6">PEOPLE • PLANET • PROGRESS</text>
+
+    <text
+      x="116" y="298"
+      fill="#92afbd"
+      font-size="23">
+      Open research • Local capability • Upper Michigan
+    </text>
+  </g>
+</svg>
